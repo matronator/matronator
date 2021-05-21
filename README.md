@@ -34,16 +34,20 @@ Theme:
   Programming Languages
 </h2>
 <p align="center">
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=Kotlin&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG-%23e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Acss&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Ahtml&type=code"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Ajavascript&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Akotlin&type=code"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Amarkdown&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Aphp&type=code"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Asql&type=code"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Ajson&type=code"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Asvg&type=code"><img alt="SVG" src="https://img.shields.io/badge/SVG-e0982c.svg?logo=svg&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Apostcss&type=code"><img alt="PostCSS" src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?logo=postcss&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3AtypeScript&type=code"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Asolidity&type=code"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Ahaxe&type=code"><img alt="Haxe" src="https://img.shields.io/badge/Haxe-EA8220.svg?logo=haxe&logoColor=white"></a>
 </p>
 
 <h2 align="center">
