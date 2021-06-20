@@ -72,6 +72,30 @@ Theme:
 <figure><embed src="https://wakatime.com/share/@matronator/5d403086-eeaa-4643-9869-927499fd41c3.svg"></embed></figure>
 -->
 
+<h2 align="center">
+  Repo of the week:
+</h2>
+<h3 align="center"><a href="https://github.com/matronator/axette">Axette</a> - AJAX for Nette</h3>
+<p align="center">
+  <a href="https://github.com/matronator/axette">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=axette&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Axette - AJAX for Nette">
+  </a>
+</p>
+
+  As simple as `npm i axette` and this:
+  
+  ```js
+  import axette from "axette";
+  
+  axette.init();
+  ```
+  
+  And you're done! Can't get any simpler. <a href="https://github.com/matronator/axette">Read more...</a>
+
+<hr>
+
+<h2 align="center">Repo showcase</h2>
+
 <p align="center">
   <a href="https://github.com/matronator/GlobalCollapse">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=GlobalCollapse&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Global Collapse: Pandemic">
