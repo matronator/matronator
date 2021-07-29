@@ -75,22 +75,18 @@ Theme:
 <h2 align="center">
   Repo of the week:
 </h2>
-<h3 align="center"><a href="https://github.com/matronator/axette">Axette</a> - AJAX for Nette</h3>
+<h3 align="center"><a href="https://github.com/matronator/message-burner">Message Burner</a> - Secure self-destructing messages</h3>
 <p align="center">
-  <a href="https://github.com/matronator/axette">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=axette&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Axette - AJAX for Nette">
+  <a href="https://github.com/matronator/message-burner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=message-burner&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Message Burner - Secure self-destructing messages">
   </a>
 </p>
 
-  As simple as `npm i axette` and this:
+  https://burner.matronator.com
+
+  Send secure one-time messages that get deleted after opening them.
   
-  ```js
-  import axette from "axette";
-  
-  axette.init();
-  ```
-  
-  And you're done! Can't get any simpler. <a href="https://github.com/matronator/axette">Read more...</a>
+  <a href="https://github.com/matronator/message-burner">Source code...</a>
 
 <hr>
 
