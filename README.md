@@ -18,6 +18,8 @@ Theme:
 
 ---------------- -->
 
+#### Notice: If you like this project, please consider [donating](#support). The battery on my macbook died and I need to get it replaced to be able to work, but a battery replacement for macbook is kinda expensive and money's little tight right now. Any help would be much appretiated! Thank you :)
+
 <h2 align="center">
   GitHub Stats
 </h2>
@@ -107,4 +109,10 @@ Theme:
   </a>
 </p>
 
+## Support
 
+<div style="display:flex;align-items:center;justify-content:flex-start;flex-wrap:wrap;height:36px;"><a href="https://ko-fi.com/U7U2MDBC" target="_blank" style="margin-right:16px;"><img height="36" style="border:0px;height:36px;" src=".github/kofi2.png" alt="Buy Me a Coffee at ko-fi.com"></a>
+<a href="https://www.paypal.me/matronator" target="_blank" style="margin-right:16px;"><img src=".github/paypal.png" height="36"></a>
+<a href="https://www.blockchain.com/btc/payment_request?address=35VRpVQaqFWjUCnVRpGineShz76QyYgSVg" target="_blank"><img src=".github/RibbonDonateBitcoin.png" height="36"></a></div>
+
+**Bitcoin address:** `35VRpVQaqFWjUCnVRpGineShz76QyYgSVg`
