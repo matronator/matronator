@@ -72,11 +72,11 @@ Theme:
   WakaTime Stats
 </h2>
 <h4 align="center">
-  Top 3 languages used this week
+  Top 5 languages used this week
 </h4>
 <p align="center">
   <a href="https://wakatime.com/@matronator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matronator&langs_count=3&range_text=last_30_days" alt="Matronator's WakaTime stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matronator&langs_count=5&range_text=last_30_days" alt="Matronator's WakaTime stats">
   </a>
 </p>
 
