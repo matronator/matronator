@@ -73,6 +73,7 @@ Theme:
 </h2>
 <h4 align="center">
   Top 5 languages used this week
+  <sub align="center"><br>(might be inaccurate at times)</sub>
 </h4>
 <p align="center">
   <a href="https://wakatime.com/@matronator">
