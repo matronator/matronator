@@ -20,6 +20,25 @@ Theme:
 
 <!-- #### Notice: If you like this project, please consider [donating](#support). The battery on my macbook died and I need to get it replaced to be able to work, but a battery replacement for a 7 year old macbook is kinda expensive and money's little tight right now. Any help would be much appretiated! Thank you :) -->
 
+<p align="center"><img src=".github/header.jpg"></p>
+<p align="center">
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Acss&type=code"><img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Ahtml&type=code"><img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Ajavascript&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3Amatronator+language%3Aphp&type=code"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3AtypeScript&type=code"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Apostcss&type=code"><img alt="PostCSS" src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=flat&logo=postcss&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Acsharp&type=code"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Akotlin&type=code"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=flat&logo=Kotlin&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Amarkdown&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Asql&type=code"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=flat&logo=amazon-dynamodb&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Ajson&type=code"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=json&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?style=flat&logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amatronator+language%3Asvg&type=code"><img alt="SVG" src="https://img.shields.io/badge/SVG-e0982c.svg?style=flat&logo=svg&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Asolidity&type=code"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?style=flat&logo=solidity&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Ahaxe&type=code"><img alt="Haxe" src="https://img.shields.io/badge/Haxe-EA8220.svg?style=flat&logo=haxe&logoColor=white"></a>
+</p>
+
 <h2 align="center">
   GitHub Stats
 </h2>
@@ -33,23 +52,36 @@ Theme:
 </p>
 
 <h2 align="center">
-  Programming Languages
+  Frameworks, Platforms, Libraries & Tools
 </h2>
+
 <p align="center">
-    <a href="https://github.com/search?q=user%3Amatronator+language%3Acss&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+language%3Ahtml&type=code"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+language%3Ajavascript&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3Amatronator+language%3Aphp&type=code"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+language%3Akotlin&type=code"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+language%3Amarkdown&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+language%3Asql&type=code"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Amatronator+language%3Ajson&type=code"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Amatronator+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+language%3Asvg&type=code"><img alt="SVG" src="https://img.shields.io/badge/SVG-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+language%3Apostcss&type=code"><img alt="PostCSS" src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?logo=postcss&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amatronator+language%3AtypeScript&type=code"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Amatronator+language%3Asolidity&type=code"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Amatronator+language%3Ahaxe&type=code"><img alt="Haxe" src="https://img.shields.io/badge/Haxe-EA8220.svg?logo=haxe&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white" alt="Symfony">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" alt="ESLint">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next JS">
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white" alt="TOR">
+  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white" alt="Gulp">
+  <img src="https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black" alt="Babel">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".Net">
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white" alt="Svelte">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white" alt="Ethereum">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=flat&logo=bitcoin&logoColor=white" alt="Bitcoin">
 </p>
 
 <div align="center">
@@ -71,6 +103,7 @@ Theme:
 <h2 align="center">
   WakaTime Stats
 </h2>
+<p align="center"><a href="https://wakatime.com/@ed11b7b0-962b-4893-a35b-4539adbcb349"><img src="https://wakatime.com/badge/user/ed11b7b0-962b-4893-a35b-4539adbcb349.svg?style=flat" alt="Total time coded since Jul 23 2020"></a></p>
 <h4 align="center">
   Top 5 languages used this week
   <sub align="center"><br>(might be inaccurate at times)</sub>
@@ -94,20 +127,12 @@ Theme:
 <h2 align="center">
   Repo of the week:
 </h2>
-<h3 align="center"><a href="https://github.com/matronator/message-burner">Message Burner</a> - Secure self-destructing messages</h3>
+<h3 align="center"><a href="https://github.com/matronator/starterpack">Starterpack</a> - Starter template for Nette projects</h3>
 <p align="center">
   <a href="https://github.com/matronator/message-burner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=message-burner&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Message Burner - Secure self-destructing messages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=starterpack&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Starterpack - Nette CMS Project Starter">
   </a>
 </p>
-
-  https://burner.matronator.com
-
-  Send secure one-time messages that get deleted after opening them.
-  
-  <a href="https://github.com/matronator/message-burner">Source code...</a>
-
-<hr>
 
 <h2 align="center">Repo showcase</h2>
 
