@@ -44,7 +44,7 @@ Theme:
 </h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Matronator's GitHub stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matronator&layout=compact&count_private=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Matronator's GitHub stats">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=matronator&count_private=true&show_icons=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&hide=contribs,prs" alt="Matronator's GitHub stats">
