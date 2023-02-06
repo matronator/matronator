@@ -28,6 +28,7 @@ Theme:
       <a href="https://github.com/search?q=user%3Amatronator+language%3Aphp&type=code"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Amatronator+language%3AtypeScript&type=code"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Amatronator+language%3Apostcss&type=code"><img alt="PostCSS" src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=flat&logo=postcss&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amatronator+language%3Agolang&type=code"><img alt="Go" src="https://img.shields.io/badge/Go-ffffff.svg?style=flat&logo=go&logoColor=00ADD8"></a>
   <a href="https://github.com/search?q=user%3Amatronator+language%3Acsharp&type=code"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amatronator+language%3Akotlin&type=code"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=flat&logo=Kotlin&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amatronator+language%3Amarkdown&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white"></a>
