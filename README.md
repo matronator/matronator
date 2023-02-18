@@ -114,6 +114,9 @@ Theme:
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matronator&langs_count=5&range_text=last_30_days" alt="Matronator's WakaTime stats">
   </a>
 </p>
+<p align="center">
+  <a href="https://wakatime.com/@matronator"><img src="https://wakatime.com/share/@matronator/10ea4041-b681-4d41-a2e4-2e5d4bcaa3e0.png" /></a>
+</p>
 
 <hr>
 
