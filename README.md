@@ -111,7 +111,7 @@ Theme:
 </h4>
 <p align="center">
   <a href="https://wakatime.com/@matronator">
-    <img align="center" src="https://wakatime.com/share/@matronator/255479cb-c7ea-498b-bf81-841864458cb4.png" />
+    <img align="center" width="75%" src="https://wakatime.com/share/@matronator/255479cb-c7ea-498b-bf81-841864458cb4.png" />
   </a>
 </p>
 <p align="center">
