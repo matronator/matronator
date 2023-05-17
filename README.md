@@ -106,12 +106,12 @@ Theme:
 </h2>
 <p align="center"><a href="https://wakatime.com/@ed11b7b0-962b-4893-a35b-4539adbcb349"><img src="https://wakatime.com/badge/user/ed11b7b0-962b-4893-a35b-4539adbcb349.svg?style=flat" alt="Total time coded since Jul 23 2020"></a></p>
 <h4 align="center">
-  Top 5 languages used this week
+  Top languages used in the last 30 days
   <sub align="center"><br>(might be inaccurate at times)</sub>
 </h4>
 <p align="center">
   <a href="https://wakatime.com/@matronator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matronator&range=all_time" alt="Matronator's WakaTime stats">
+    <img align="center" src="https://wakatime.com/share/@matronator/255479cb-c7ea-498b-bf81-841864458cb4.png" />
   </a>
 </p>
 <p align="center">
