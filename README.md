@@ -111,7 +111,7 @@ Theme:
 </h4>
 <p align="center">
   <a href="https://wakatime.com/@matronator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matronator" alt="Matronator's WakaTime stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matronator&range=all_time" alt="Matronator's WakaTime stats">
   </a>
 </p>
 <p align="center">
