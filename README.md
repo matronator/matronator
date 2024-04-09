@@ -131,13 +131,13 @@ Theme:
 <h2 align="center">
   Repo of the week:
 </h2>
-<h3 align="center"><a href="https://github.com/matronator/MTRGen">MTRGen</a> - PHP file generator</h3>
+<h3 align="center"><a href="https://github.com/matronator/amock">Amock</a> - API Mock Server</h3>
 <p align="center">
-  <a href="https://github.com/matronator/MTRGen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=MTRGen&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="MTRGen - PHP file generator">
+  <a href="https://github.com/matronator/amock">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=amock&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Amock - API Mock Server">
   </a>
 </p>
-<p align="center">File generator engine that can generate PHP files from JSON/YAML/NEON templates.<br>https://matronator.github.io/MTRGen/</p>
+<p align="center">Amock is a simple API mock server that uses JSON files to define entities from which it auto-generates endpoints. It is useful for front-end developers who need to work with a back-end API that is not yet available.</p>
 
 <h2 align="center">Repo showcase</h2>
 
@@ -148,8 +148,8 @@ Theme:
   <a href="https://github.com/matronator/feed-the-flames">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=feed-the-flames&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Feed The Flames - Game Concept">
   </a>
-  <a href="https://github.com/matronator/lostCountdown">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=lostCountdown&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="4 8 15 16 23 42">
+  <a href="https://github.com/matronator/MTRGen">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=MTRGen&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="MTRGen - File generator">
   </a>
   <a href="https://github.com/matronator/ThemeGenerator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=ThemeGenerator&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Bootstrap Theme Generator">
