@@ -97,9 +97,11 @@ Theme:
 <a href="https://www.paypal.me/matronator" target="_blank" style="margin-right:32px;"><img src=".github/paypal.png" height="36"></a>
 <a href="https://www.blockchain.com/btc/address/35VRpVQaqFWjUCnVRpGineShz76QyYgSVg" target="_blank"><img src=".github/RibbonDonateBitcoin.png" height="36"></a></div>
 
-**Bitcoin address:** `35VRpVQaqFWjUCnVRpGineShz76QyYgSVg`
+**Bitcoin (BTC) address:** `35VRpVQaqFWjUCnVRpGineShz76QyYgSVg`
   
-**Monero address:** `84yS17W3dLvV6Lj2XaATgYX4Ef7tPpGtmdBoanyL68GofxM2VQD8ZUNWaKpdyerJdZ7mceQ6r7e8G2om6q6k8zEZ4ndy2xG`
+**Monero (XMR) address:** `84yS17W3dLvV6Lj2XaATgYX4Ef7tPpGtmdBoanyL68GofxM2VQD8ZUNWaKpdyerJdZ7mceQ6r7e8G2om6q6k8zEZ4ndy2xG`
+
+**Stacks (STX) address (and any other SIP-10 tokens):** `SP2FCRYHEYX9EPHX7QE7HH7RQ2S2XXA9WX0PV00RM`
   
 </div>
 
