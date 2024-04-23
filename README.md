@@ -101,7 +101,7 @@ Theme:
   
 **Monero (XMR) address:** `84yS17W3dLvV6Lj2XaATgYX4Ef7tPpGtmdBoanyL68GofxM2VQD8ZUNWaKpdyerJdZ7mceQ6r7e8G2om6q6k8zEZ4ndy2xG`
 
-**Stacks (STX) address (and any other SIP-10 tokens):** `SP2FCRYHEYX9EPHX7QE7HH7RQ2S2XXA9WX0PV00RM`
+**Stacks (STX) address (and any other SIP-10 tokens):** `SP39DTEJFPPWA3295HEE5NXYGMM7GJ8MA0TQX379`
   
 </div>
 
