@@ -43,6 +43,13 @@ Theme:
 <h2 align="center">
   GitHub Stats
 </h2>
+
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=matronator&no-frame=true&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+    
+</p>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matronator&layout=compact&count_private=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&langs_count=6" alt="Matronator's GitHub stats">
@@ -50,7 +57,7 @@ Theme:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=matronator&count_private=true&show_icons=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&hide=contribs,prs" alt="Matronator's GitHub stats">
   </a>
-    <br><br>
+<br><br>
     <a href="https://gitroll.io/profile/un7gknsKygxYSqvzg1C7qYZBBvMr2" target="_blank"><img align="center" width="66%" height="auto" src="https://gitroll.io/api/badges/profiles/v1/un7gknsKygxYSqvzg1C7qYZBBvMr2" alt="GitRoll Profile Badge"/></a>
 </p>
 
