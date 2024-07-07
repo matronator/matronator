@@ -99,6 +99,8 @@ Theme:
   ## Support
   
   <!-- [Contribute to a MacBook battery replacement via PayPal](https://paypal.me/pools/c/8C3DhbhuNB) -->
+
+  <h4>Check out <a href="https://support.matronator.cz">https://support.matronator.cz</a> for all the ways how you can support me.</h4>
   
    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2MDBC)
 <a href="https://www.paypal.me/matronator" target="_blank" style="margin-right:32px;"><img src=".github/paypal.png" height="36"></a>
