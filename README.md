@@ -141,6 +141,8 @@ Theme:
 <figure><embed src="https://wakatime.com/share/@matronator/5d403086-eeaa-4643-9869-927499fd41c3.svg"></embed></figure>
 -->
 
+<!-- start repo of the week -->
+
 <h2 align="center">
   Repo of the week:
 </h2>
@@ -151,6 +153,8 @@ Theme:
   </a>
 </p>
 <p align="center">Amock is a simple API mock server that uses JSON files to define entities from which it auto-generates endpoints. It is useful for front-end developers who need to work with a back-end API that is not yet available.</p>
+
+<!-- end repo of the week -->
 
 <h2 align="center">Repo showcase</h2>
 
