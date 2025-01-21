@@ -162,16 +162,28 @@ Theme:
 <h2 align="center">Repo showcase</h2>
 
 <p align="center">
-  <a href="https://github.com/matronator/GlobalCollapse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=GlobalCollapse&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Global Collapse: Pandemic">
+  <a href="https://github.com/matronator/message-burner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=message-burner&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Message Burner">
+  </a>
+  <a href="https://github.com/matronator/parsem">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=parsem&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Pars'Em">
+  </a>
+  <a href="https://github.com/matronator/AnxietySimulator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=AnxietySimulator&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Anxiety Simulator">
   </a>
   <a href="https://github.com/matronator/feed-the-flames">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=feed-the-flames&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Feed The Flames - Game Concept">
   </a>
-  <a href="https://github.com/matronator/MTRGen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=MTRGen&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="MTRGen - File generator">
+  <a href="https://github.com/matronator/PIKOlang">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=PIKOlang&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="PIKOlang - Perfectly Innocent Killer Orgasms - Esolang">
   </a>
-  <a href="https://github.com/matronator/ThemeGenerator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=ThemeGenerator&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Bootstrap Theme Generator">
+  <a href="https://github.com/matronator/stacky.js">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=stacky.js&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="stacky.js">
+  </a>
+  <a href="https://github.com/matronator/token-watch">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=token-watch&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Stacks DEX Token Watch">
+  </a>
+  <a href="https://github.com/matronator/matronator-macos-portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=matronator-macos-portfolio&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Matronator macOS portfolio">
   </a>
 </p>
