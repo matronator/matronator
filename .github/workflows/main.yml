@@ -13,12 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      # Give the default GITHUB_TOKEN write permission to commit and push the
-      # added or changed files to the repository.
       contents: write
 
     steps:
-      - name: Repo of the week
-        uses: matronator/repo-of-the-week@v1.0.2
+      - name: Check out repo
+        uses: actions/checkout@v4
+      - name: Use Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+      - name: Install node dependencies
+        run: npm ci
+      - name: Update repo of the week
+        run: npm run refresh
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5

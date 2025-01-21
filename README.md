@@ -47,7 +47,7 @@ Theme:
 <p align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=matronator&no-frame=true&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-    
+
 </p>
 
 <p align="center">
@@ -95,23 +95,26 @@ Theme:
 </p>
 
 <div align="center">
-  
+
   ## Support
-  
+
   <!-- [Contribute to a MacBook battery replacement via PayPal](https://paypal.me/pools/c/8C3DhbhuNB) -->
 
   <h4>Check out <a href="https://support.matronator.cz">https://support.matronator.cz</a> for all the ways how you can support me.</h4>
-  
+
    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2MDBC)
 <a href="https://www.paypal.me/matronator" target="_blank" style="margin-right:32px;"><img src=".github/paypal.png" height="36"></a>
-<a href="https://www.blockchain.com/btc/address/35VRpVQaqFWjUCnVRpGineShz76QyYgSVg" target="_blank"><img src=".github/RibbonDonateBitcoin.png" height="36"></a></div>
+<a href="https://www.blockchain.com/btc/address/35VRpVQaqFWjUCnVRpGineShz76QyYgSVg" target="_blank"><img src=".github/RibbonDonateBitcoin.png" height="36"></a>
+
+<a href="https://checkout.revolut.com/pay/02de7b30-f1d6-4832-8365-014de236902a" target="_blank"><img src=".github/revolut-donate.png" height="194"><br>Revolut</a>
+</div>
 
 **Bitcoin (BTC) address:** `35VRpVQaqFWjUCnVRpGineShz76QyYgSVg`
-  
+
 **Monero (XMR) address:** `84yS17W3dLvV6Lj2XaATgYX4Ef7tPpGtmdBoanyL68GofxM2VQD8ZUNWaKpdyerJdZ7mceQ6r7e8G2om6q6k8zEZ4ndy2xG`
 
 **Stacks (STX) address (and any other SIP-10 tokens):** `SP39DTEJFPPWA3295HEE5NXYGMM7GJ8MA0TQX379`
-  
+
 </div>
 
 <h2 align="center">
@@ -136,7 +139,7 @@ Theme:
 <!--
 [![Matronator's GitHub stats](https://github-readme-stats.vercel.app/api?username=matronator&count_private=true&show_icons=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matronator&theme=onedark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matronator&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matronator&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517)](https://github.com/anuraghazra/github-readme-stats)
 [![Matronator's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matronator&layout=compact&langs_count=5&range_text=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 <figure><embed src="https://wakatime.com/share/@matronator/5d403086-eeaa-4643-9869-927499fd41c3.svg"></embed></figure>
 -->
