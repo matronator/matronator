@@ -149,13 +149,13 @@ Theme:
 <h2 align="center">
   Repo of the week:
 </h2>
-<h3 align="center"><a href="https://github.com/matronator/amock">Amock</a> - API Mock Server</h3>
+<h3 align="center"><a href="https://github.com/matronator/cyberpunk">cyberpunk</a></h3>
 <p align="center">
-  <a href="https://github.com/matronator/amock">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=amock&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Amock - API Mock Server">
+  <a href="https://github.com/matronator/cyberpunk">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=cyberpunk&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="matronator/cyberpunk">
   </a>
 </p>
-<p align="center">Amock is a simple API mock server that uses JSON files to define entities from which it auto-generates endpoints. It is useful for front-end developers who need to work with a back-end API that is not yet available.</p>
+<p align="center">A theme for visual studio code</p>
 
 <!-- end repo of the week -->
 
