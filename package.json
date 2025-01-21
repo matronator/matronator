@@ -3,14 +3,16 @@
     "version": "1.0.0",
     "type": "module",
     "scripts": {
-        "refresh": "node update-readme.js"
+        "refresh": "bun update-readme.ts"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/matronator/matronator.git"
     },
     "license": "MIT",
-    "dependencies": {
-        "node-fetch": "^3.3.2"
+    "dependencies": {},
+    "devDependencies": {
+        "@types/bun": "^1.1.17",
+        "bun-types": "^1.1.45"
     }
 }
