@@ -40,30 +40,30 @@ Theme:
   <a href="https://github.com/search?q=user%3Amatronator+language%3Ahaxe&type=code"><img alt="Haxe" src="https://img.shields.io/badge/Haxe-EA8220.svg?style=flat&logo=haxe&logoColor=white"></a>
 </p>
 
+<hr>
+
+<!-- start repo of the week -->
+
 <h2 align="center">
-  GitHub Stats
+  Repo of the week:
 </h2>
-
+<h3 align="center"><a href="https://github.com/matronator/starterpack">starterpack</a></h3>
 <p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=matronator&no-frame=true&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matronator&layout=compact&count_private=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&langs_count=6" alt="Matronator's GitHub stats">
+  <a href="https://github.com/matronator/starterpack">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=starterpack&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="matronator/starterpack">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matronator&count_private=true&show_icons=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&hide=contribs,prs" alt="Matronator's GitHub stats">
-  </a>
-<br><br>
-    <a href="https://gitroll.io/profile/un7gknsKygxYSqvzg1C7qYZBBvMr2" target="_blank"><img align="center" width="66%" height="auto" src="https://gitroll.io/api/badges/profiles/v1/un7gknsKygxYSqvzg1C7qYZBBvMr2" alt="GitRoll Profile Badge"/></a>
 </p>
+<p align="center">Starter template for Nette projects with custom CMS</p>
 
-<h2 align="center">
+<!-- end repo of the week -->
+
+<hr>
+
+<h3 align="center">
   Frameworks, Platforms, Libraries & Tools
-</h2>
+</h3>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" alt="NPM">
@@ -115,49 +115,33 @@ Theme:
 
 **Stacks (STX) address (and any other SIP-10 tokens):** `SP39DTEJFPPWA3295HEE5NXYGMM7GJ8MA0TQX379`
 
-</div>
 
 <h2 align="center">
-  WakaTime Stats
+  GitHub Stats
 </h2>
-<p align="center"><a href="https://wakatime.com/@ed11b7b0-962b-4893-a35b-4539adbcb349"><img src="https://wakatime.com/badge/user/ed11b7b0-962b-4893-a35b-4539adbcb349.svg?style=flat" alt="Total time coded since Jul 23 2020"></a></p>
-<h4 align="center">
-  Top 20 languages used all time
-  <sub align="center"><br>(might be inaccurate at times)</sub>
-</h4>
+
 <p align="center">
-  <a href="https://wakatime.com/@matronator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matronator&langs_count=20" alt="Matronator's WakaTime stats">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=matronator&no-frame=true&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+<!-- <p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matronator&theme=sunset-gradient)](https://git.io/streak-stats)
+
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matronator&layout=compact&count_private=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&langs_count=6" alt="Matronator's GitHub stats">
   </a>
-</p>
-<p align="center">
-  <a href="https://wakatime.com/@matronator"><img src="https://wakatime.com/share/@matronator/10ea4041-b681-4d41-a2e4-2e5d4bcaa3e0.png" /></a>
-</p>
-
-<hr>
-
-<!--
-[![Matronator's GitHub stats](https://github-readme-stats.vercel.app/api?username=matronator&count_private=true&show_icons=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matronator&theme=onedark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matronator&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517)](https://github.com/anuraghazra/github-readme-stats)
-[![Matronator's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matronator&layout=compact&langs_count=5&range_text=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
-<figure><embed src="https://wakatime.com/share/@matronator/5d403086-eeaa-4643-9869-927499fd41c3.svg"></embed></figure>
--->
-
-<!-- start repo of the week -->
-
-<h2 align="center">
-  Repo of the week:
-</h2>
-<h3 align="center"><a href="https://github.com/matronator/starterpack">starterpack</a></h3>
-<p align="center">
-  <a href="https://github.com/matronator/starterpack">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=starterpack&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="matronator/starterpack">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matronator&count_private=true&show_icons=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&hide=contribs,prs" alt="Matronator's GitHub stats">
   </a>
+<br><br>
+    <a href="https://gitroll.io/profile/un7gknsKygxYSqvzg1C7qYZBBvMr2" target="_blank"><img align="center" width="50%" height="auto" src="https://gitroll.io/api/badges/profiles/v1/un7gknsKygxYSqvzg1C7qYZBBvMr2" alt="GitRoll Profile Badge"/></a>
 </p>
-<p align="center">Starter template for Nette projects with custom CMS</p>
-
-<!-- end repo of the week -->
 
 <h2 align="center">Repo showcase</h2>
 
@@ -187,3 +171,30 @@ Theme:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matronator&repo=matronator-macos-portfolio&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517" alt="Matronator macOS portfolio">
   </a>
 </p>
+
+<hr>
+
+<h2 align="center">
+  WakaTime Stats
+</h2>
+<p align="center"><a href="https://wakatime.com/@ed11b7b0-962b-4893-a35b-4539adbcb349"><img src="https://wakatime.com/badge/user/ed11b7b0-962b-4893-a35b-4539adbcb349.svg?style=flat" alt="Total time coded since Jul 23 2020"></a></p>
+<h4 align="center">
+  Top 20 languages used all time
+  <sub align="center"><br>(might be inaccurate at times)</sub>
+</h4>
+<p align="center">
+  <a href="https://wakatime.com/@matronator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matronator&langs_count=20" alt="Matronator's WakaTime stats">
+  </a>
+</p>
+<p align="center">
+  <a href="https://wakatime.com/@matronator"><img src="https://wakatime.com/share/@matronator/10ea4041-b681-4d41-a2e4-2e5d4bcaa3e0.png" /></a>
+</p>
+
+<!--
+[![Matronator's GitHub stats](https://github-readme-stats.vercel.app/api?username=matronator&count_private=true&show_icons=true&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matronator&theme=onedark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matronator&title_color=bf1f1f&icon_color=ffbf00&text_color=ffffff&bg_color=100,000000,360428,730517)](https://github.com/anuraghazra/github-readme-stats)
+[![Matronator's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matronator&layout=compact&langs_count=5&range_text=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@matronator/5d403086-eeaa-4643-9869-927499fd41c3.svg"></embed></figure>
+-->
