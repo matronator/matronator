@@ -19,6 +19,6 @@ jobs:
 
     steps:
       - name: Repo of the week
-        uses: matronator/repo-of-the-week@v1.0.0
+        uses: matronator/repo-of-the-week@latest
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
