@@ -40,6 +40,10 @@ Theme:
   <a href="https://github.com/search?q=user%3Amatronator+language%3Ahaxe&type=code"><img alt="Haxe" src="https://img.shields.io/badge/Haxe-EA8220.svg?style=flat&logo=haxe&logoColor=white"></a>
 </p>
 
+<p align="center">
+    <img src="https://api.githubtrends.io/user/svg/matronator/langs?time_range=one_year&loc_metric=changed&theme=dark">
+</p>
+
 <hr>
 
 <!-- start repo of the week -->
