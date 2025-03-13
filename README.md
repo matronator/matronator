@@ -21,6 +21,11 @@ Theme:
 <!-- #### Notice: If you like this project, please consider [donating](#support). The battery on my macbook died and I need to get it replaced to be able to work, but a battery replacement for a 7 year old macbook is kinda expensive and money's little tight right now. Any help would be much appretiated! Thank you :) -->
 
 <p align="center"><img src=".github/header.jpg"></p>
+<div align="center">
+    
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
+</div>
 <p align="center">
     <a href="https://github.com/search?q=user%3Amatronator+language%3Acss&type=code"><img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amatronator+language%3Ahtml&type=code"><img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
