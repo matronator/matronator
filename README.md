@@ -192,12 +192,16 @@ Theme:
   <sub align="center"><br>(might be inaccurate at times)</sub>
 </h4>
 <p align="center">
-  <!-- <a href="https://wakatime.com/@matronator">
+    
+  <a href="https://wakatime.com/@matronator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matronator&langs_count=20" alt="Matronator's WakaTime stats">
-  </a> -->
+  </a>
 </p>
 <p align="center">
-  <!-- <a href="https://wakatime.com/@matronator"><img src="https://wakatime.com/share/@matronator/10ea4041-b681-4d41-a2e4-2e5d4bcaa3e0.png" /></a> -->
+  <a href="https://wakatime.com/@matronator"><img src="https://wakatime.com/share/@matronator/10ea4041-b681-4d41-a2e4-2e5d4bcaa3e0.png" /></a>
+</p>
+<p align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@matronator/b65b4263-7f1a-4e70-ac4f-fe7133aeeebe.png" /></a>
 </p>
 
 <!--
